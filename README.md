@@ -1,4 +1,4 @@
-<h1 align="center">Yo, I'm Tito Amoo</h1>
+<h1 align="center">Yo, I'm Tito</h1>
 <h3 align="center">an enthusiastic software engineer, passionate about crafting exceptional digital experiences.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=titonova&label=Profile%20views&color=0e75b6&style=flat" alt="titonova" /> </p>
@@ -12,8 +12,6 @@
 - 📝 Checkout my articles at [titonova.wordpress.com](titonova.wordpress.com)
 
 - 💬 Ask me about **TALL stack (Tailwind CSS, Alpine.js, Laravel, Livewire)**
-
-- 📫 How to reach me **titoamoo4@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
