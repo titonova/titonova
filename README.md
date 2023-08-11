@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **AI, Cloud services,**
 
-- 📝 Checkout my articles at [titonova.wordpress.com](titonova.wordpress.com)
+- 📝 Checkout my articles at [titonova.wordpress.com](https://titonova.wordpress.com)
 
 - 💬 Ask me about **TALL stack (Tailwind CSS, Alpine.js, Laravel, Livewire)**
 
